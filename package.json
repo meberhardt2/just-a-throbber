@@ -1,0 +1,46 @@
+{
+  "name": "just-a-throbber",
+  "version": "1.0.0",
+  "private": false,
+  "description": "just a throbber. simple throbber/activity indicator with no dependencies",
+  "main": "dist/just-a-throbber.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/meberhardt2/just-a-throbber.git"
+  },
+  "keywords": [
+    "throbber",
+    "loading",
+    "activity",
+    "saving",
+    "react"
+  ],
+  "author": "matt e",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/meberhardt2/just-a-throbber/issues"
+  },
+  "homepage": "https://github.com/meberhardt2/just-a-throbber#readme",
+  "scripts": {
+    "build": "webpack"
+  },
+  "peerDependencies": {
+    "react": ">=16",
+    "react-dom": ">=16"
+  },
+  "devDependencies": {
+    "babel-core": "^6.21.0",
+    "babel-loader": "^7.1.5",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-react": "^6.16.0",
+    "babel-preset-stage-0": "^6.24.1",
+    "css-loader": "^3.5.1",
+    "path": "^0.12.7",
+    "prop-types": "^15.6.0",
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0",
+    "style-loader": "^1.1.3",
+    "webpack": "^4.46.0",
+    "webpack-cli": "^3.3.12"
+  }
+}
