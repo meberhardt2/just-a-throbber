@@ -1,8 +1,9 @@
 # Just A Throbber
 
-Want a way to show the user that important stuff is being done and they should wait? Looking for something small, lightweight? This is it.
+Want a way to show the user that important stuff is being done and they should wait? Looking for something simple and lightweight? This is it.
 
 * zero dependencies
+* just css and html
 * overlay automatically added to dim the background and prevent clicking on other things
 * easy to get started with and use
 * drop it at the root of your app and you're able to show and hide it from any place without updating state
