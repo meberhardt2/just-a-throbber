@@ -36,3 +36,7 @@ API.search(data).then((data) => {
 });
 ```
 
+|throbberType||
+|---|---|
+|ropePull|![alt text](https://github.com/meberhardt2/just-a-throbber/blob/main/screenshots/throbbers8.gif?raw=true)|
+
