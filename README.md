@@ -20,7 +20,7 @@ import JustAThobber from 'just-a-throbber';
 
 ReactDOM.render(
 	<Fragment>
-		<Throbber throbberType='ropePull' />
+		<JustAThobber throbberType='ropePull' />
 		<App />
 	</Fragment>,
 	document.getElementById('root')
