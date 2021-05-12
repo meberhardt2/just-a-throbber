@@ -44,3 +44,4 @@ API.search(data).then((data) => {
 |wackyWaffles|![alt text](https://github.com/meberhardt2/just-a-throbber/blob/main/screenshots/throbbers9.gif?raw=true)|
 |sunflower|![alt text](https://github.com/meberhardt2/just-a-throbber/blob/main/screenshots/throbbers12.gif?raw=true)|
 
+<br />
