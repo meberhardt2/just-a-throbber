@@ -41,4 +41,5 @@ API.search(data).then((data) => {
 |---|---|
 |ropePull|![alt text](https://github.com/meberhardt2/just-a-throbber/blob/main/screenshots/throbbers8.gif?raw=true)|
 |theBeat|![alt text](https://github.com/meberhardt2/just-a-throbber/blob/main/screenshots/throbbers3.gif?raw=true)|
+|ldsringJAT2|![alt text](https://github.com/meberhardt2/just-a-throbber/blob/main/screenshots/throbbers9.gif?raw=true)|
 
