@@ -42,4 +42,5 @@ API.search(data).then((data) => {
 |ropePull|![alt text](https://github.com/meberhardt2/just-a-throbber/blob/main/screenshots/throbbers8.gif?raw=true)|
 |theBeat|![alt text](https://github.com/meberhardt2/just-a-throbber/blob/main/screenshots/throbbers3.gif?raw=true)|
 |wackyWaffles|![alt text](https://github.com/meberhardt2/just-a-throbber/blob/main/screenshots/throbbers9.gif?raw=true)|
+|sunflower|![alt text](https://github.com/meberhardt2/just-a-throbber/blob/main/screenshots/throbbers12.gif?raw=true)|
 
