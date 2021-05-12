@@ -15,7 +15,7 @@ npm install --save just-a-throbber
 
 ## Usage
 ```jsx
-import React from 'react';
+import React, { Fragment } from 'react';
 import JustAThobber from 'just-a-throbber';
 
 ReactDOM.render(
