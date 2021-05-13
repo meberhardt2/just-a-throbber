@@ -43,5 +43,6 @@ API.search(data).then((data) => {
 |theBeat|![alt text](https://github.com/meberhardt2/just-a-throbber/blob/main/screenshots/throbbers3.gif?raw=true)|
 |wackyWaffles|![alt text](https://github.com/meberhardt2/just-a-throbber/blob/main/screenshots/throbbers9.gif?raw=true)|
 |sunflower|![alt text](https://github.com/meberhardt2/just-a-throbber/blob/main/screenshots/throbbers12.gif?raw=true)|
+|dogChasingTail|![alt text](https://github.com/meberhardt2/just-a-throbber/blob/main/screenshots/throbbers5.gif?raw=true)|
 
 <br />
