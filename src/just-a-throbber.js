@@ -22,7 +22,7 @@ function Throbber(props){
 
 	/****************************************/
     const throbberConfig = (props) => {
-        const throbberArray = ['ropePull','theBeat','wackyWaffles','sunflower','dogChasingTail'];
+        const throbberArray = ['ropePull','theBeat','wackyWaffles','sunflower','dogChasingTail','rightRoundBaby'];
         let newConfig = {};
         let index = 0;
 
@@ -63,6 +63,9 @@ function Throbber(props){
                 }
                 {config.throbberType === 'dogChasingTail' &&
                     <div id="ldsringJAT4"><div></div><div></div><div></div><div></div></div>
+                }
+                {config.throbberType === 'rightRoundBaby' &&
+                    <div id="ldsringJAT5"></div>
                 }
             </div>
         </div>
