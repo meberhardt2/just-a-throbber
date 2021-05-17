@@ -1,6 +1,6 @@
 {
   "name": "just-a-throbber",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "private": false,
   "description": "just a throbber. simple throbber/activity indicator with no dependencies",
   "main": "dist/just-a-throbber.js",
